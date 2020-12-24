@@ -1,0 +1,57 @@
+.f-left {
+	float: left;
+}
+.f-right {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.box-1,
+.box-2
+ {
+	width: 536px;
+	background-color: #F8F8F8;
+}
+.line1 {
+	width: 1088px;
+	margin: 0 auto;
+	padding-top: 5px;
+}
+.p {
+	color: #B1B1B1;
+}
+.bold {
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+	line-height: 1px;
+	font-size: 14px;
+	color: #5863F8;
+	padding-top: 82px;
+}
+.ExtraBold {
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+	font-size: 42px;
+	padding-bottom: 10px;
+}
+.SemiBold-1 {
+	font-family: 'Poppins', sans-serif;
+	color: #5863F8;
+}
+.SemiBold {
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+}
+.Medium {
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+}
+
+.img-box{
+margin-right: 16px;
+}
+.text-box {
+width: 260px;
+margin-top: 37px;
+}
