@@ -34,6 +34,9 @@
 .p {
 	color: #B1B1B1;
 }
+.p-text1 {
+	padding-left: 37px;
+}
 .bold {
 	font-family: 'Poppins', sans-serif;
 	text-transform: uppercase;
@@ -68,11 +71,16 @@ width: 260px;
 margin-top: 37px;
 }
 .text-1 {
+	font-family: 'Poppins', sans-serif;
+	margin-left:125px;
+	text-transform: uppercase;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	color: #5863F8;
 
 }
 .text-2 {
-
-}
-.text-3 {
-
+	margin-left: 63px;
+	margin-bottom: 8px;
 }
